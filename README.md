@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey buddy! Thanks for stopping by 👋
 https://linktr.ee/soumili1818
 
 [![@soumili1818's Holopin board](https://holopin.me/soumili1818)](https://holopin.io/@soumili1818)
