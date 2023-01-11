@@ -3,7 +3,7 @@ Find me on
 https://linktr.ee/soumili1818
 
 [![@soumili1818's Holopin board](https://holopin.me/soumili1818)](https://holopin.io/@soumili1818)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Soumili1818&show_icons=true)
+[![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Soumili1818&show_icons=true)
 
 <!--
 **Soumili1818/Soumili1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
