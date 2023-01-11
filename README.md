@@ -4,7 +4,7 @@
 
 [Stalk me :wink: ](https://linktr.ee/soumili1818)
 
-[![Sparkline](https://stars.medv.io/soumili1818/badges.svg)](https://stars.medv.io/Naereen/badges)
+[![Sparkline](https://stars.medv.io/soumili1818/badges.svg)](https://stars.medv.io/soumili1818/badges)
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=soumili1818)
