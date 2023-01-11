@@ -1,7 +1,8 @@
-### Hey buddy! Thanks for stopping by 👋
-## Here's a joke just for you :heart: ![Jokes Card](https://readme-jokes.vercel.app/api)
-Find me on
-https://linktr.ee/soumili1818
+### Hey buddy👋! Thanks for stopping by :bowtie:
+## Here's a joke just for you :heart: 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![:phone: :inbox_tray: ](https://linktr.ee/soumili1818)
 
 
 
