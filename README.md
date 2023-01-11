@@ -2,7 +2,7 @@
 ## Here's a joke just for you :heart: 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-[Find me here]https://linktr.ee/soumili1818)
+[Find me here](https://linktr.ee/soumili1818)
 
 
 
