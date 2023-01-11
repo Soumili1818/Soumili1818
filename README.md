@@ -1,4 +1,5 @@
 ### Hey buddy! Thanks for stopping by 👋
+## Here's a joke just for you :heart: ![Jokes Card](https://readme-jokes.vercel.app/api)
 Find me on
 https://linktr.ee/soumili1818
 
@@ -8,10 +9,11 @@ https://linktr.ee/soumili1818
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=soumili1818&show_icons=true) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=soumili1818&theme=blue-green) 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=soumili1818&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=soumili1818&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Sparkline](https://stars.medv.io/soumili1818/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 [![@soumili1818's Holopin board](https://holopin.me/soumili1818)](https://holopin.io/@soumili1818)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 
 
