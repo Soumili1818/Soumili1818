@@ -3,9 +3,13 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=soumili1818) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=soumili1818&show_icons=true) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=soumili1818&theme=blue-green) 
+
+
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=soumili1818&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=soumili1818&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=soumili1818) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=soumili1818&show_icons=true) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=soumili1818&theme=blue-green) 
 
 
 
