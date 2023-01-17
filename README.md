@@ -1,6 +1,6 @@
 ## Hey buddy👋! Thanks for stopping by :bowtie: _[Stalk me here :wink: ](https://linktr.ee/soumili1818)_
 ### Here's a joke just for you :heart: 
-![Jokes Card](https://readme-jokes.vercel.app/api) [![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=soumili1818&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![Jokes Card](https://readme-jokes.vercel.app/api) [![Github streak][![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Soumili1818&theme=dracula&fire=8816DD)](https://git.io/streak-stats)
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=soumili1818&row=1)](https://github.com/ryo-ma/github-profile-trophy)  ![Profile View Counter](https://komarev.com/ghpvc/?username=soumili1818)
 
